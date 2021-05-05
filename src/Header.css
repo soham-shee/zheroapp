@@ -1,0 +1,20 @@
+.header{
+    display: flex;
+    -ms-flex-align: center;
+    align-items: center;
+    justify-content: center;
+    -ms-flex-align: center;
+    height: 50px;
+    background: linear-gradient(90deg, #364C61 0%, #959698 48.01%, #364C61 99.92%, rgba(255, 255, 255, 0) 102.59%);
+}
+
+.logo{
+    width:70px;
+
+}
+
+.title{
+    font-size: 30px;
+    color: white;
+    margin-right: 0px;
+}
